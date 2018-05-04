@@ -1,6 +1,5 @@
 """
     Creator: Yuri Mirchev
-    Source: https://github.com/rg3/youtube-dl#embedding-youtube-dl
     Purpose: Download video and print its info
 """
 
